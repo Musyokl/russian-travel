@@ -1,0 +1,9 @@
+.footer__column_content_menu {
+    display: flex;
+}
+
+@media (max-width: 767px) {
+    .footer__column_content_menu {
+        flex-direction: column;
+    }
+}
