@@ -5,6 +5,7 @@
     font-size: 96px;
     font-weight: 900;
     line-height: 1.04;
+    font-family: "Inter-Black";
     text-align: center;
     width: 720px;
 }  
@@ -14,5 +15,6 @@
         font-size: 40px;
         line-height: 1.1;
         width: 288px;
+        padding-top: 48px;
     }
 }

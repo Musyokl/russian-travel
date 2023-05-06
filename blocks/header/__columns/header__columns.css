@@ -1,7 +1,6 @@
 .header__columns {
     margin: 0 auto;
     max-width: 1184px;
-    min-height: 80px;
     display: flex;
     justify-content: space-between;
 }
@@ -21,6 +20,5 @@
 @media (max-width: 767px) {
     .header__columns {
         max-width: 288px;
-        min-height: 58px;
     }
 }

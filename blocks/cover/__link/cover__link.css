@@ -9,7 +9,7 @@
 }
 
 .cover__link:before {
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(42, 44, 47, 0.3);
     transition: background-color .3s;
     content: '';
     display: block;
@@ -21,7 +21,7 @@
 }
 
 .cover__link:hover:before {
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(42, 44, 47, 0.8);
 }
 
 @media (max-width: 1279px) {
