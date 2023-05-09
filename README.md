@@ -6,4 +6,4 @@
 * HTML, CSS
 
 **Ссылки**
-(https://github.com/Musyokl/russian-travel/blob/main/index.html)
+[https://musyokl.github.io/russian-travel/]

@@ -3,8 +3,7 @@
     color: white;
     font-size: 54px;
     font-weight: 900;
-    line-height: 1.07;
-    font-family: 'Inter-Black';
+    line-height: 1.07; 
 }
 
 @media (max-width: 767px) {
